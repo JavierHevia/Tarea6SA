@@ -48,12 +48,20 @@ Para actualizar algun cambio en nuestro docker se deberá de correr los siguient
 | Web   | http://localhost/ |
 
  docker-compose up -d
+ 
  docker-compose start
+ 
  docker-compose restart
+ 
  docker-compose down
+ 
 
  docker system prune
+ 
  docker system prune -a
+ 
 
  docker-compose up --detach --build
+ 
  mysql -h localhost -u root -p
+ 
