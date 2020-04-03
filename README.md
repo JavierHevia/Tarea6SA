@@ -43,8 +43,11 @@ Para actualizar algun cambio en nuestro docker se deberá de correr los siguient
 
 
 ### Accesos
+#VIDEO
+https://youtu.be/MPjBzk-8cBY
 
 | MySQL | db | hevia | 1234 |
+
 | Web   | http://localhost/ |
 
  docker-compose up -d
